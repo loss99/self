@@ -1,6 +1,6 @@
 //
-//  newtestUITests.m
-//  newtestUITests
+//  newtest2UITests.m
+//  newtest2UITests
 //
 //  Created by 贾海亮 on 16/6/13.
 //  Copyright © 2016年 贾海亮. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface newtestUITests : XCTestCase
+@interface newtest2UITests : XCTestCase
 
 @end
 
-@implementation newtestUITests
+@implementation newtest2UITests
 
 - (void)setUp {
     [super setUp];
